@@ -8,7 +8,7 @@ Run the following command in your terminal
 
 1. To install
    ```bash
-   git clone password-genenrator-manager-gui-python
+   git clone https://github.com/Noobsiecoder/password-genenrator-manager-gui-python.git
    ```
 2. To run code
 
